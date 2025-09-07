@@ -52,6 +52,6 @@ The tasks span across **Power BI dashboards** and **Python-based data analysis (
 
 ---
 
-## 📌 How to Use  
+## 📌 How to Use ?
 1. Open `.pbix` files in **Power BI Desktop** to explore dashboards.  
 2. Run `.ipynb` file in **Jupyter Notebook / Google Colab** to view the analysis.  
